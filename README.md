@@ -6,5 +6,3 @@ This is the officially supported IDE for the course.
 
 Get the IDE here:
 http://www.openstm32.org/System+Workbench+for+STM32
-
-Current as of 9/2/2017.
