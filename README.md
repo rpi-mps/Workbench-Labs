@@ -1,8 +1,7 @@
 # Workbench-Labs
-RPI Microprocessor Systems Repository for STM32F769I-Discovery Kit: STM32 Workbench Labs
+SystemWorkbench for STM32 labs for RPI Microprocessor Systems using the STM32F769I-Discovery kit.
 
-STM32 Workbench versions of the STM32F769I-DISCO labs. 
-This is the officially supported IDE for the course.
+SystemWorkbench for STM32 is the officially supported IDE for Microprocessor Systems. See the "STM32 Workbench Install and Usage Guide" document for installation instructions, which are specific to the course.  
 
-Get the IDE here:
+As mentioned in the document, the IDE itself is acquired from here:
 http://www.openstm32.org/System+Workbench+for+STM32
